@@ -1,5 +1,5 @@
 def num_to_month(num):
-    switcher ={
+    switcher = {
         1:'January',
         2:'February',
         3:'March',
