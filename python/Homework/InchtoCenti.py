@@ -5,3 +5,4 @@ def main():
     inch = int(input("Enter inch: "))
     centi = inchtoCenti(inch)
     print("Inch: %d, Centimeters: %.2f" %(inch,centi))
+main()
