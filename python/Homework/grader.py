@@ -13,3 +13,4 @@ def main():
     score = int(input("Score: "))
     grade = calgrade(score)
     print(grade)
+main()
